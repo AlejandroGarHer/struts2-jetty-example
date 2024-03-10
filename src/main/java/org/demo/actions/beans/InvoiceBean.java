@@ -47,9 +47,7 @@ public class InvoiceBean {
     public void setTipoIva(String tipoIva) {
         this.tipoIva = tipoIva;
     }
-    public String getImpConIva() {
-        return impConIva;
-    }
+    public String getImpConIva() { return impConIva; }
     public void setImpConIva(String impConIva) {
         this.impConIva = impConIva;
     }
